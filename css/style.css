@@ -74,6 +74,10 @@ article a {
   align-self: flex-start;
 }
 
+article a:hover {
+  opacity: 30%;
+}
+
 main > img:nth-child(5) {
   margin-bottom: 0;
 }
